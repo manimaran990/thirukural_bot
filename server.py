@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from bot import Telegram_bot
 from thirukural import Daily_Thirukural
 import random
